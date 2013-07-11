@@ -252,6 +252,6 @@ COUNTRY = {
 	"EH":"WESTERN SAHARA",
 	"YE":"YEMEN",
 	"ZM":"ZAMBIA",
-	"ZW ":"ZIMBABWE"
+	"ZW":"ZIMBABWE"
 }
 
